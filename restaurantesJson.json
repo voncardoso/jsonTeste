@@ -1,0 +1,142 @@
+[
+  {
+    "restaurantId": 445,
+    "foodCost": 5.15,
+    "maxOccupancy": 71,
+    "location": "[[631.5130723031391 2001.4772026036535]]",
+    "buildingId": 304
+  },
+  {
+    "restaurantId": 446,
+    "foodCost": 4.17,
+    "maxOccupancy": 82,
+    "location": "[[413.840000705876 1194.128694228948]]",
+    "buildingId": 308
+  },
+  {
+    "restaurantId": 447,
+    "foodCost": 5.87,
+    "maxOccupancy": 119,
+    "location": "[[497.9967937001494 1624.515148185587]]",
+    "buildingId": 58
+  },
+  {
+    "restaurantId": 448,
+    "foodCost": 4.07,
+    "maxOccupancy": 98,
+    "location": "[[698.2411158717262 4392.416668183332]]",
+    "buildingId": 964
+  },
+  {
+    "restaurantId": 449,
+    "foodCost": 5.11,
+    "maxOccupancy": 53,
+    "location": "[[1407.7107695149243 4010.4574815269225]]",
+    "buildingId": 181
+  },
+  {
+    "restaurantId": 895,
+    "foodCost": 4.44,
+    "maxOccupancy": 103,
+    "location": "[[-1623.0740591441258 3872.0300113645017]]",
+    "buildingId": 164
+  },
+  {
+    "restaurantId": 896,
+    "foodCost": 5.86,
+    "maxOccupancy": 107,
+    "location": "[[-2126.1723943111892 4285.182228265561]]",
+    "buildingId": 619
+  },
+  {
+    "restaurantId": 897,
+    "foodCost": 5.76,
+    "maxOccupancy": 104,
+    "location": "[[-1989.63526350385 3368.764837974986]]",
+    "buildingId": 875
+  },
+  {
+    "restaurantId": 898,
+    "foodCost": 4.22,
+    "maxOccupancy": 115,
+    "location": "[[-1771.452216635636 4343.580176583138]]",
+    "buildingId": 917
+  },
+  {
+    "restaurantId": 899,
+    "foodCost": 5.65,
+    "maxOccupancy": 85,
+    "location": "[[-820.9290279479601 4497.243308530136]]",
+    "buildingId": 86
+  },
+  {
+    "restaurantId": 1345,
+    "foodCost": 4.7,
+    "maxOccupancy": 72,
+    "location": "[[-1176.8013302032396 5846.6471242364805]]",
+    "buildingId": 991
+  },
+  {
+    "restaurantId": 1346,
+    "foodCost": 5.85,
+    "maxOccupancy": 74,
+    "location": "[[-3529.558386975454 4809.641127666926]]",
+    "buildingId": 27
+  },
+  {
+    "restaurantId": 1347,
+    "foodCost": 4.41,
+    "maxOccupancy": 87,
+    "location": "[[-1221.4051100732 4941.00338419236]]",
+    "buildingId": 679
+  },
+  {
+    "restaurantId": 1348,
+    "foodCost": 4.23,
+    "maxOccupancy": 57,
+    "location": "[[-508.12691044634744 6307.584421447018]]",
+    "buildingId": 124
+  },
+  {
+    "restaurantId": 1349,
+    "foodCost": 4.77,
+    "maxOccupancy": 104,
+    "location": "[[-1176.6989055164295 4726.117600229471]]",
+    "buildingId": 888
+  },
+  {
+    "restaurantId": 1801,
+    "foodCost": 5.51,
+    "maxOccupancy": 64,
+    "location": "[[-3136.1278958093117 6671.917461867151]]",
+    "buildingId": 160
+  },
+  {
+    "restaurantId": 1802,
+    "foodCost": 5.08,
+    "maxOccupancy": 72,
+    "location": "[[-4002.9335312988205 6671.996711133368]]",
+    "buildingId": 714
+  },
+  {
+    "restaurantId": 1803,
+    "foodCost": 4.35,
+    "maxOccupancy": 94,
+    "location": "[[-3182.885940731813 7167.608699410916]]",
+    "buildingId": 213
+  },
+  {
+    "restaurantId": 1804,
+    "foodCost": 5.92,
+    "maxOccupancy": 48,
+    "location": "[[-4131.41409222454 7236.525633225643]]",
+    "buildingId": 101
+  },
+  {
+    "restaurantId": 1805,
+    "foodCost": 5.59,
+    "maxOccupancy": 85,
+    "location": "[[-3927.9102395808727 5494.63962663673]]",
+    "buildingId": 285
+  }
+]
